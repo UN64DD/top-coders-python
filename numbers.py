@@ -1,6 +1,8 @@
-age = 35
-pi = 3.14159
+float_division = 8 / 3
 
-math_operation = 1 + 3 * 4 / 2 - 2
+print(float_division)
 
-print(math_operation)
+integer_division = 8 // 3
+
+print(integer_division)
+
